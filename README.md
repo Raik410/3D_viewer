@@ -1,5 +1,27 @@
 # 3DViewer v1.0
 
+This is 3DViewer project can display your object file.
+
+![dragon](./misc/dragon.png)
+
+You can rotate, scale, transition your object model.
+
+Change color of vertexes, change line(linier or dash).
+
+Change background color and record your object into a GIF or screenshot, and more.
+
+Some object files contains in `/src/object`
+
+To install 3DViewer use
+
+```
+cd src
+make install
+make open
+```
+
+Support any linux and MacOS
+
 Implementation of 3DViewer v1.0.
 
 ## Contents
